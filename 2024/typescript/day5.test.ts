@@ -8,6 +8,6 @@ describe('test', () => {
         expect(part1(testData)).toBe(143)
     });
     it('should test part 2', () => {
-        expect(part2(testData)).toBe(0)
+        expect(part2(testData)).toBe(123)
     });
 });
